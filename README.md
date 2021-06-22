@@ -13,3 +13,5 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leobidoous&hide=contribs,prs&theme=synthwave&show_icons=true) 
 
 ![](https://komarev.com/ghpvc/?username=leobidoous&color=blue&style=flat)
+
+![Snake animation](https://github.com/leobidoous/leobidoous/blob/output/github-contribution-grid-snake.svg)
